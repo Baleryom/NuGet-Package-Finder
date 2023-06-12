@@ -1,0 +1,1936 @@
+PackageId,Title
+Azure.Core
+AWSSDK - Core Runtime
+Moq: an enjoyable mocking library
+Swashbuckle.AspNetCore.Swagger
+Swashbuckle.AspNetCore.SwaggerGen
+Swashbuckle.AspNetCore.SwaggerUI
+Polly
+Azure.Storage.Blobs
+Serilog.Sinks.File
+Swashbuckle.AspNetCore
+Microsoft.OpenApi
+Serilog.Sinks.Console
+Serilog.Extensions.Logging
+StackExchange.Redis
+Serilog.Formatting.Compact
+Azure.Security.KeyVault.Secrets
+Google.Protobuf
+coverlet.collector
+Dapper
+Pipelines.Sockets.Unofficial
+Humanizer Locale (en)
+Azure.Identity
+IdentityModel
+Npgsql
+Serilog.AspNetCore
+Azure.Storage.Queues
+Serilog.Extensions.Hosting
+Microsoft.Identity.Client.Extensions.Msal
+Serilog.Sinks.Debug
+Microsoft Azure Amqp
+Microsoft.Bcl.HashCode
+Azure.Messaging.ServiceBus
+Azure.Security.KeyVault.Certificates
+Serilog.Sinks.PeriodicBatching
+Grpc.Core.Api
+AWSSDK - S3
+CsvHelper
+Azure.Storage.Common
+Azure.Security.KeyVault.Keys
+Elasticsearch.Net
+System.Interactive.Async
+Google APIs Core Client Library
+Google APIs Client Library
+Google APIs Client Library
+Microsoft Azure Cosmos DB Client library
+Microsoft.IdentityModel.Abstractions
+ODataLib
+Microsoft.NET.Sdk.iOS.Manifest-6.0.400
+Microsoft.NET.Sdk.MacCatalyst.Manifest-6.0.400
+Microsoft.NET.Sdk.macOS.Manifest-6.0.400
+Microsoft.NET.Sdk.Android.Manifest-6.0.400
+Microsoft.NET.Sdk.Maui.Manifest-6.0.400
+Microsoft.NET.Sdk.tvOS.Manifest-6.0.400
+System.Reactive
+SharpZipLib
+Polly.Extensions.Http
+Microsoft.NET.Workload.Emscripten.Manifest
+Microsoft.AspNetCore.Mvc.Versioning
+YamlDotNet
+SharpCompress
+ANTLRv3
+Npgsql.EntityFrameworkCore.PostgreSQL
+DocumentFormat.OpenXml
+AutoFixture
+StyleCop.Analyzers
+TimeZoneConverter
+coverlet.msbuild
+Grpc.Net.Common
+Swashbuckle.AspNetCore.Annotations
+Fare - Finite Automata and Regular Expressions
+Grpc.Core
+prometheus-net
+Grpc.Net.Client
+Microsoft.Owin.Security.OAuth
+EdmLib
+MessagePack for C#
+WebActivatorEx
+Command Line Parser Library
+Scrutor
+NLog.Extensions.Logging
+ODataLib
+NSubstitute
+NEST - Elasticsearch .NET high level client
+Nito.Disposables
+AWSSDK - SQS
+protobuf-net
+Microsoft.NET.Sdk.Functions
+SSH.NET
+Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer
+Google API Extensions
+Nito.AsyncEx.Tasks
+System.Data.DataSetExtensions
+Azure.Messaging.EventHubs
+AngleSharp
+Namotion.Reflection
+System.Linq.Async
+AWSSDK - Extensions for NETCore Setup
+NCrontab.Signed
+Microsoft.IO.RecyclableMemoryStream
+Unity
+AWSSDK - DynamoDBv2
+Microsoft.NET.Workload.Emscripten.Manifest
+librdkafka - redistributable
+Confluent.Kafka
+Nito.AsyncEx.Coordination
+System.Net.WebSockets.WebSocketProtocol
+Grpc.Tools
+CommonServiceLocator
+Nito.Collections.Deque
+Nito.AsyncEx.Context
+NLog.Web.AspNetCore
+AWSSDK - SecurityToken
+SixLabors.ImageSharp
+Swashbuckle.AspNetCore.Newtonsoft
+StackExchange.Redis.StrongName
+Common.Logging
+Serilog.Exceptions
+MessagePack annotations for C#
+Azure.Core.Amqp
+AWSSDK - SimpleNotificationService
+System.Reactive.Linq
+Azure.Search.Documents
+Microsoft.CodeQuality.Analyzers
+Microsoft ASP.NET Identity Owin
+Microsoft.NET.Sdk.iOS.Manifest-7.0.100
+Microsoft.NET.Workload.Emscripten.net6.Manifest
+Microsoft.NET.Workload.Emscripten.net7.Manifest
+Serilog.Sinks.Elasticsearch
+Microsoft.NET.Sdk.macOS.Manifest-7.0.100
+Microsoft.NET.Sdk.MacCatalyst.Manifest-7.0.100
+Microsoft.NetCore.Analyzers
+Microsoft.NET.Sdk.tvOS.Manifest-7.0.100
+Microsoft.NET.Sdk.Maui.Manifest-7.0.100
+Microsoft.NET.Sdk.Android.Manifest-7.0.100
+SshNet.Security.Cryptography
+Microsoft.NET.Sdk.Android.Manifest-6.0.300
+Microsoft.NET.Sdk.Maui.Manifest-6.0.300
+Microsoft.NET.Sdk.macOS.Manifest-6.0.300
+Microsoft.CodeAnalysis.FxCopAnalyzers
+AWSSDK - SimpleSystemsManagement
+Microsoft.NET.Sdk.MacCatalyst.Manifest-6.0.300
+Microsoft.NET.Sdk.iOS.Manifest-6.0.300
+Microsoft.NET.Sdk.tvOS.Manifest-6.0.300
+Microsoft.NetFramework.Analyzers
+Refit
+Common.Logging.Core
+IdentityModel.AspNetCore.OAuth2Introspection
+Serilog.Sinks.ApplicationInsights
+Serilog.Sinks.Elasticsearch
+BouncyCastle.NetCore
+Microsoft.IdentityModel.Xml
+Swashbuckle.Core - Swagger for WebApi
+Microsoft.IdentityModel.Tokens.Saml
+Azure.Data.Tables
+Microsoft.CodeAnalysis.VisualBasic.Workspaces
+Google API Common Protos
+MoreLINQ
+Bogus
+prometheus-net.AspNetCore
+IdentityServer4.AccessTokenValidation
+Azure.Storage.Files.Shares
+AWSSDK - SecretsManager
+System.IO.Abstractions
+Grpc.Net.ClientFactory
+System.Reactive.Core
+Serilog.Sinks.Seq
+Microsoft.TestPlatform
+Google API Common Protos
+Microsoft.CodeAnalysis.VersionCheckAnalyzer
+Respond JS
+Stark Bank ECDSA
+IdentityServer4
+Twilio
+Pomelo.EntityFrameworkCore.MySql
+FSharp.Core
+Selenium.WebDriver.ChromeDriver (Win32, macOS, macOS arm64, and Linux64)
+Microsoft.CodeAnalysis.Scripting.Common
+Microsoft TraceEvent Library
+Microsoft.NET.Sdk.MacCatalyst.Manifest-6.0.200
+Microsoft.NET.Sdk.iOS.Manifest-6.0.200
+Microsoft.NET.Sdk.Android.Manifest-6.0.200
+Microsoft.NET.Sdk.macOS.Manifest-6.0.200
+Microsoft.NET.Sdk.Maui.Manifest-6.0.200
+Microsoft.NET.Sdk.tvOS.Manifest-6.0.200
+Microsoft.NET.Workload.Emscripten.Manifest
+Microsoft.CodeAnalysis.CSharp.Scripting
+AspNetCore.HealthChecks.UI.Client
+ClosedXML
+NSwag.AspNetCore
+Fody
+Native code only (e_sqlite3, linux) for SQLitePCLRaw
+SQLitePCLRaw.lib.e_sqlite3.v110_xp
+Native code only (e_sqlite3, osx) for SQLitePCLRaw
+.NET's fastest JSON Serializer by ServiceStack
+Microsoft ASP.NET Identity EntityFramework
+Microsoft.NET.Workload.Emscripten.Manifest
+Grpc.AspNetCore.Server
+DotNetZip
+Microsoft.Build.Tasks.Git
+Microsoft.SourceLink.Common
+System.Reactive.Interfaces
+Swashbuckle - Swagger for WebApi
+Grpc.Auth
+Google gRPC API Extensions
+IdentityServer4.Storage
+Microsoft.IdentityModel.Protocols.WsFederation
+K4os.Compression.LZ4
+Microsoft.NET.Sdk.Android.Manifest-6.0.100
+Microsoft.NET.Sdk.iOS.Manifest-6.0.100
+Microsoft.NET.Sdk.Maui.Manifest-6.0.100
+Microsoft.NET.Sdk.MacCatalyst.Manifest-6.0.100
+Microsoft.NET.Sdk.macOS.Manifest-6.0.100
+Microsoft.NET.Sdk.tvOS.Manifest-6.0.100
+ExcelNumberFormat
+Microsoft Identity Web
+ExcelDataReader
+SQLitePCLRaw.provider.e_sqlite3.netstandard11
+Microsoft.Rest.ClientRuntime.Azure.Authentication
+Swashbuckle.AspNetCore.Filters
+Grpc
+Microsoft.dotnet-interactive
+NPOI
+AspNetCore.HealthChecks.UI.Core
+JsonSubTypes
+Microsoft.Extensions.Azure
+AWSSDK - Lambda
+JWT
+AutoFixture with Auto Mocking using Moq
+Microsoft.Extensions.Configuration.AzureAppConfiguration
+AWSSDK - CloudWatchLogs
+Polly.Contrib.WaitAndRetry
+Unity.Abstractions
+OpenTracing
+FakeItEasy - Mocking made faking easy!
+Azure.Messaging.EventGrid
+NUglify
+Microsoft.Owin.Cors
+Azure.Data.AppConfiguration
+Gherkin
+ncrontab
+KubernetesClient
+Microsoft.NETFramework.ReferenceAssemblies
+Async and Task Helpers
+Handlebars.Net
+Input and runtime validation
+GitVersion.Tool
+Microsoft.SourceLink.GitHub
+AspNetCore.HealthChecks.SqlServer
+Azure.ResourceManager.Storage
+Grpc.AspNetCore.Server.ClientFactory
+BoDi - Simple IoC Container
+StyleCop.Analyzers.Unstable
+Microsoft.DiaSymReader
+xUnit.net [Runner: .NET CLI SDK]
+Microsoft.Azure.WebJobs.Extensions.Storage
+dotnet-reportgenerator-globaltool
+Utf8Json
+Iesi.Collections
+libphonenumber-csharp
+Microsoft.VisualStudio.Threading.Analyzers
+Microsoft.FeatureManagement
+Microsoft.Azure.Management.ResourceManager.Fluent
+Mono.Cecil
+Grpc.AspNetCore
+StructureMap
+Azure.ResourceManager.KeyVault
+Microsoft.Azure.WebJobs.Extensions.ServiceBus
+Google.Apis.Storage.v1 Client Library
+Ben.Demystifier
+Microsoft.CodeAnalysis
+HtmlSanitizer
+Microsoft.Owin.Security.OpenIdConnect
+Unity.Container
+AngleSharp.Css
+Azure.ResourceManager.ServiceBus
+Google.Cloud.Storage.V1
+NSwag.MSBuild
+Azure.Extensions.AspNetCore.Configuration.Secrets
+K4os.Compression.LZ4.Streams
+ReportGenerator
+TencentCloudSDK.Common
+RazorEngine
+AutoFixture with xUnit.net v2 data theories
+FastMember
+K4os.Hash.xxHash
+Dapper.Contrib
+Azure.ResourceManager.Sql
+Azure.ResourceManager.Network
+Humanizer
+Fraction data type
+AWSSDK - SimpleEmail
+Microsoft.CodeAnalysis.Workspaces.MSBuild
+Humanizer Locale (uk)
+Microsoft.NET.Sdk.MacCatalyst.Manifest-7.0.100.Msi.x64
+Microsoft.NET.Sdk.iOS.Manifest-7.0.100.Msi.x64
+Microsoft.NET.Sdk.macOS.Manifest-7.0.100.Msi.x64
+Microsoft.NET.Workload.Emscripten.net6.Manifest-7.0.100.Msi.x64
+Microsoft.NET.Sdk.Android.Manifest-7.0.100.Msi.x64
+Microsoft.NET.Sdk.tvOS.Manifest-7.0.100.Msi.x64
+Microsoft.NET.Workload.Emscripten.net7.Manifest-7.0.100.Msi.x64
+Microsoft.NET.Sdk.Maui.Manifest-7.0.100.Msi.x64
+Stripe.net
+Azure.ResourceManager.AppService
+Azure.ResourceManager.Monitor
+Microsoft Identity Web Token Cache
+Microsoft Identity Web Certificate
+Compare .NET Objects
+Common libraries for ServiceStack projects
+Nito.AsyncEx.Interop.WaitHandles
+Humanizer Locale (ru)
+Nito.Cancellation
+Humanizer Locale (fr)
+Elastic.Apm
+System.Reactive.PlatformServices
+Nito.AsyncEx.Oop
+Humanizer Locale (de)
+Humanizer Locale (zh-CN)
+Amazon.Lambda.Serialization.SystemTextJson
+AWSSDK - KeyManagementService
+Humanizer Locale (pt)
+Humanizer Locale (es)
+Serilog.Expressions
+Humanizer Locale (zh-Hans)
+Pomelo.JsonObject
+Humanizer Locale (zh-Hant)
+Humanizer Locale (nl)
+Humanizer Locale (it)
+Humanizer Locale (ja)
+Humanizer Locale (pl)
+Humanizer Locale (tr)
+Microsoft.CodeAnalysis.Features
+Humanizer Locale (sv)
+DiffEngine
+Lightweight and implementation-free interfaces for ServiceStack
+Humanizer Locale (nb-NO)
+Humanizer Locale (id)
+Humanizer Locale (hr)
+Humanizer Locale (ro)
+Humanizer Locale (he)
+Humanizer Locale (uz-Cyrl-UZ)
+Humanizer Locale (fr-BE)
+Humanizer Locale (da)
+Humanizer Locale (cs)
+Humanizer Locale (fa)
+Humanizer Locale (fi-FI)
+Humanizer Locale (nb)
+Humanizer Locale (hu)
+Humanizer Locale (sr)
+Humanizer Locale (el)
+Humanizer Locale (sr-Latn)
+Humanizer Locale (uz-Latn-UZ)
+Humanizer Locale (sl)
+Humanizer Locale (sk)
+Humanizer Locale (vi)
+Humanizer Locale (bn-BD)
+Refit.HttpClientFactory
+Humanizer Locale (ar)
+Humanizer Locale (bg)
+MessagePackAnalyzer
+Humanizer Locale (af)
+Microsoft.Azure.Management.Graph.RBAC.Fluent
+Amazon.Lambda.APIGatewayEvents
+Microsoft.CodeAnalysis.CSharp.Features
+SixLabors.Fonts
+EmptyFiles
+jose-jwt
+Humanizer Locale (lv)
+Azure.ResourceManager.Compute
+EFCore.BulkExtensions
+Microsoft.VisualStudio.Validation
+Microsoft.Azure.Management.Msi.Fluent
+Microsoft.IdentityModel.Validators
+ExcelDataReader.DataSet
+Microsoft.DotNet.Scaffolding.Shared
+EasyNetQ
+Microsoft.CodeAnalysis.AnalyzerUtilities
+IdentityServer4.AspNetIdentity
+Microsoft ASP.NET Core 3.x, 5.x and 6.x for OData v4.0
+Superpower
+Amazon.Lambda.Serialization.Json
+JunitXml.TestLogger
+Microsoft.VisualStudio.SlowCheetah
+Microsoft.CodeAnalysis.VisualBasic.Features
+NTS I/O for MSSQL
+Microsoft.Diagnostics.NETCore.Client
+BenchmarkDotNet
+FluentMigrator
+Microsoft.CodeAnalysis.NetAnalyzers
+ANTLR 3 Runtime
+Humanizer Locale (ms-MY)
+Humanizer Locale (mt)
+AWSSDK - Kinesis
+protobuf-net.Core
+System.CommandLine
+DbUp Core library
+CLR Memory Diagnostics (ClrMD)
+Azure.ResourceManager.EventHubs
+ImpromptuInterface
+QRCoder
+AWSSDK - CloudWatch
+Cucumber.Messages
+Unity.Interception
+Octokit
+Microsoft.VisualStudio.Threading
+MSBuild Locator
+Azure.ResourceManager.Dns
+DogStatsD-CSharp-Client
+Azure.ResourceManager.ContainerRegistry
+Google.Cloud.Iam.V1
+AspNetCore.HealthChecks.Uris
+Azure.ResourceManager.Redis
+Azure.ResourceManager.Cdn
+Azure.ResourceManager.CosmosDB
+Microsoft.TestPlatform.Portable
+Splat
+dotnet-dump
+Grpc.Core bridge Google.Api.Gax.Grpc
+Microsoft.ApplicationInsights.Kubernetes
+Azure.ResourceManager.TrafficManager
+Azure.ResourceManager.Search
+AWSSDK - CognitoIdentityProvider
+Prism.Core
+Azure.ResourceManager.ContainerInstance
+Azure.ResourceManager.ContainerService
+Dynamitey
+Microsoft.Azure.Management.Fluent
+Microsoft.Azure.Management.Locks.Fluent
+Microsoft.Azure.Management.BatchAI.Fluent
+Microsoft.FeatureManagement.AspNetCore
+AspNetCore.HealthChecks.Redis
+LazyCache
+SixLabors.Core
+Serilog.Settings.AppSettings
+IdentityServer4.EntityFramework
+OpenCover - an open source code coverage tool for .NET
+Markdig
+LinqKit
+AspNetCore.HealthChecks.UI
+.NET Configuration Extensions for AWS Systems Manager
+Humanizer Locale (hy)
+LaunchDarkly.EventSource
+FluentFTP
+ELMAH Core Library
+IdentityServer4.EntityFramework.Storage
+Dynamic test skipping for Xunit
+FluentMigrator.Runner
+BenchmarkDotNet.Annotations
+MicroElements.Swashbuckle.FluentValidation
+RedLock.net
+Microsoft.Azure.AppConfiguration.AspNetCore
+Humanizer Locale (az)
+Swashbuckle.AspNetCore.Filters.Abstractions
+FluentMigrator.Abstractions
+Remotion.Linq.EagerFetching
+Castle.Core.AsyncInterceptor
+Serilog.Sinks.MSSqlServer
+Rg.Plugins.Popup
+Microsoft.Azure.DurableTask.Core
+AspNetCore.HealthChecks.Rabbitmq
+Microsoft.Extensions.Logging.Log4Net.AspNetCore
+GraphQL.Client
+AWSSDK - CloudFormation
+Perfolizer
+AWSSDK - IdentityManagement
+Serilog.Sinks.Trace
+Amazon.Lambda.SQSEvents
+Microsoft.Azure.DurableTask.AzureStorage
+AutoMapper.Collection
+Google.LongRunning
+Serilog.Filters.Expressions
+Semantic versioning
+Mapster
+Azure Functions Durable Task Extension
+AWSSDK - EC2
+StackExchange.Redis.Extensions is a library that extends StackExchange.Redis in order to make your life easier
+Microsoft.NETFramework.ReferenceAssemblies.net472
+MessagePack for CLI
+LinqKit.Core
+C# Async Streams features
+FluentNHibernate
+Microsoft Identity Web Certificateless
+System.Runtime.WindowsRuntime
+Microsoft Xml Document Transformation
+Amazon.Lambda.Tools
+FFImageLoading Plugin for Xamarin.iOS / Xamarin.Android / Xamarin.Mac / Windows
+FluentMigrator.Runner.Core
+Jaeger
+FluentMigrator.Extensions.SqlServer
+Elastic.Apm.AspNetCore
+FluentMigrator.Runner.SqlServer
+Cronos
+FluentMigrator.Runner.SqlServerCe
+ZXing.Net
+FluentMigrator.Runner.Postgres
+Microsoft.NET.Sdk.iOS.Manifest-6.0.400.Msi.x64
+FluentMigrator.Runner.Oracle
+FluentMigrator.Runner.SQLite
+FluentMigrator.Runner.SqlAnywhere
+Microsoft.NET.Sdk.MacCatalyst.Manifest-6.0.400.Msi.x64
+FluentMigrator.Runner.Redshift
+FluentMigrator.Runner.MySql
+Microsoft.NET.Sdk.macOS.Manifest-6.0.400.Msi.x64
+Google.Cloud.PubSub.V1
+FluentMigrator.Runner.Hana
+Microsoft.NET.Sdk.Android.Manifest-6.0.400.Msi.x64
+Microsoft.NET.Sdk.Maui.Manifest-6.0.400.Msi.x64
+FluentMigrator.Runner.Db2
+FluentMigrator.Runner.Firebird
+Microsoft.NET.Sdk.tvOS.Manifest-6.0.400.Msi.x64
+FluentMigrator.Extensions.SqlAnywhere
+DbUp MS Sql Server Support
+AWSSDK - CognitoIdentity
+Mono.TextTemplating
+NuGet.Core
+GraphQL.Primitives
+PropertyChanged.Fody
+Serilog.Extensions.Logging.File
+GraphQL.Client.Abstractions
+x86/x64 disassembler, assembler, instruction decoder
+GraphQL.Client.Abstractions.Websocket
+Permissions Plugin for Xamarin and Windows
+MscrmTools.Xrm.Connection
+Humanizer Locale (ko-KR)
+NEST.JsonNetSerializer - Elasticsearch .NET custom Json.NET serializer
+CorrelationId
+AWS.Logger.Core
+Azure.Messaging.EventHubs.Processor
+Humanizer Locale (th-TH)
+Humanizer Locale (ku)
+Microsoft.NETCore.UniversalWindowsPlatform
+Microsoft Orleans Core Library
+User Agent Parser for .Net
+Azure.ResourceManager.PrivateDns
+Enums.NET
+Destructurama.Attributed
+Microsoft ASP.NET Web API 2.2 for OData v4.0
+System.Management.Automation
+LinqKit.Microsoft.EntityFrameworkCore
+AWSSDK - KinesisFirehose
+Google.Apis.Bigquery.v2 Client Library
+Hyak.Common
+Magick.NET-Q16-AnyCPU
+FluentMigrator.Extensions.Oracle
+sqlite-net-pcl
+Microsoft Orleans Core Abstractions
+AspNetCoreRateLimit
+RestEase
+Amazon.Lambda.AspNetCoreServer
+FFImageLoading Plugin for Xamarin Forms
+Elastic.Apm.EntityFrameworkCore
+Microsoft.Azure.Common
+Serilog.Sinks.Http
+AspNetCore.HealthChecks.NpgSql
+C# Redis client for the Redis NoSQL DB
+Elastic.Apm.Extensions.Hosting
+AWSSDK - StepFunctions
+Confluent.SchemaRegistry
+Serilog.Sinks.Literate
+Microsoft.NETFramework.ReferenceAssemblies.net461
+Auth0.Core
+Microsoft.IdentityModel.LoggingExtensions
+Microsoft Power BI API
+LaunchDarkly.ServerSdk
+Microsoft.NET.Workload.Emscripten.Manifest-6.0.400.Msi.x64
+Roslynator.Analyzers
+Microsoft Orleans Runtime Abstractions
+Microsoft.Web.RedisSessionStateProvider
+RhinoMocks
+Media Plugin for .NET 6, .NET MAUI, Xamarin, and Windows
+Microsoft Azure IoT Devices Shared
+Acr.UserDialogs
+MaxMind.Db
+jquery.TypeScript.DefinitelyTyped
+Magick.NET.Core
+Crc32 for .NET
+McMaster.Extensions.CommandLineUtils
+ELMAH
+Elastic.Apm.NetCoreAll
+SixLabors.ImageSharp.Drawing
+Text.Analyzers
+Stateless
+Google.Cloud.BigQuery.V2
+MockHttp for HttpClient
+Exceptionless
+XunitXml.TestLogger
+IPNetwork utility classes for .Net
+Elastic.Apm.SqlClient
+FirebaseAdmin
+Hellang.Middleware.ProblemDetails
+Microsoft.Owin.Security.ActiveDirectory
+.NET and .NET Core fast, end-to-end typed, code-gen free Service Clients
+DotNetty.Common
+OneOf - Easy Discriminated Unions for c#
+AWSSDK - ECS
+AspNetCore.HealthChecks.MongoDb
+NuGet.RuntimeModel
+Prism.Plugin.Popups
+Microsoft.Xaml.Behaviors.Wpf
+DotNetty.Buffers
+System.IO.Abstractions.TestingHelpers
+DotNetty.Transport
+DotNetty.Codecs
+Extended WPF Toolkit
+Microsoft.Azure.Management.ResourceManager
+NBuilder
+Microsoft.Azure.WebJobs.Extensions.DurableTask.Analyzers
+AWSSDK - CloudFront
+Examine
+Mapster.Core
+Scriban
+prometheus-net.DotNetRuntime
+MockQueryable.Core
+MaxMind.GeoIP2
+VaultSharp
+Elastic.Apm.Elasticsearch
+Glob
+Moq.AutoMock
+Serilog.Enrichers.CorrelationId
+Hangfire.MemoryStorage
+Sigil
+Ical.Net
+Audit.NET
+MimeTypesMap
+WireMock.Net
+CouchbaseNetClient
+Prism for Xamarin.Forms
+dotnet-trace
+Unity.Mvc
+Ardalis.GuardClauses
+DotNetty.Handlers
+OBSOLETE: DbUp SqlServer Upgrade Shim
+OpenTracing.Contrib.NetCore
+Serilog Sink Datadog Logs
+LibGit2Sharp.NativeBinaries
+Selenium.WebDriver.IEDriver
+LanguageExt.Core
+Jint
+FFImageLoading Transformations
+Visual Studio Locator
+Microsoft.Azure.Functions.Worker.Extensions.Abstractions
+Microsoft.Azure.Functions.Worker.Core
+ServiceStack webservice framework: Faster, Cleaner, Modern WCF alternative
+RazorGenerator.Mvc
+Microsoft Orleans Runtime
+Microsoft Orleans Providers
+Bond C# runtime
+AWSSDK - XRay
+dotnet-counters
+ANTLR 4 .NET Standard Runtime
+Microsoft.Owin.FileSystems
+IdentityModel.AspNetCore
+LibGit2Sharp
+PagedList
+Microsoft.Owin.StaticFiles
+Cake.FileHelpers
+Selenium.Firefox.WebDriver
+GraphQL.Client.Serializer.Newtonsoft
+Bond C#
+TeamCity VSTest Adapter
+XPath2
+SimMetrics.Net
+Ajax Control Toolkit
+Akka
+OData Client for .NET
+AWSSDK - RDS
+Elastic.Apm.Extensions.Logging
+DotNetCore.NPOI
+Appium.WebDriver
+TeamCity Service Messages read/write access
+Unity.WebAPI
+dotnet-gcdump
+Auth0.ManagementApi
+Random Data Generator
+NUnit Analyzers
+AutoFixture with Auto Mocking using NSubstitute
+JmesPath.Net
+Microsoft.Owin.Diagnostics
+System.Reactive.Providers
+Markdown
+Current Activity Plugin for Xamarin.Android
+Microsoft.SourceLink.AzureRepos.Git
+ANTLR 4 Runtime
+Microsoft.Net.Native.Compiler
+System.Runtime.WindowsRuntime.UI.Xaml
+Auth0.AuthenticationApi
+IoC.Container
+Microsoft.Management.Infrastructure
+Castle.Windsor.MsDependencyInjection
+DryIoc.dll
+Reactive Extensions (Rx) - v3 Compatibility
+NPoco
+Microsoft.PowerShell.CoreCLR.Eventing
+FluentMigrator.Extensions.Postgres
+Nerdbank.GitVersioning
+EPPlus.Core
+XPath2.Extensions
+Use the Newtonsoft Json.Net serialization with StackExchange.Redis.
+Microsoft.Net.Compilers.Toolset
+dotMorten.Microsoft.SqlServer.Types
+WireMock.Net.Abstractions
+Elastic.Apm.GrpcClient
+DiffPlex
+Fasterflect
+Microsoft Azure Cosmos DB Change Feed Processor library
+MockQueryable.EntityFrameworkCore
+Selenium.Chrome.WebDriver
+JS Engine Switcher: Core
+SharpYaml
+ZstdSharp.Port
+Humanizer Locale (is)
+Npgsql.Json.NET
+Microsoft.PowerShell.Native
+YUICompressor.NET
+JsonDiffPatch.Net
+ConfigureAwait.Fody
+Microsoft Identity Web UI
+MockQueryable.Moq
+Microsoft Azure IoT Service Client SDK
+FastMember.Signed
+Dynamic CSS for .net
+Parquet.Net
+AWSSDK - AutoScaling
+iTextSharp.LGPLv2.Core
+Polly.Caching.Memory
+AWSSDK - ECR
+prometheus-net.AspNetCore.HealthChecks
+Microsoft.Azure.WebJobs.Extensions.Storage.Queues
+Markdig.Signed
+Microsoft.Azure.Functions.Worker
+Google Protocol Buffers tools
+RestSharp.Portable core library
+Microsoft.Azure.Functions.Worker.Grpc
+Microsoft.AspNet.WebApi.Versioning
+Bond C# core runtime
+lz4net
+RestSharp.Portable HttpClient engine
+Microsoft Azure Common Library Dependencies
+Serilog.Sinks.AwsCloudWatch
+Swashbuckle.AspNetCore.Cli
+EntityFrameworkCore.SqlServer.HierarchyId.Abstractions
+LazyCache.AspNetCore
+EntityFrameworkCore.SqlServer.HierarchyId
+Google.Cloud.Logging.V2
+Refit.Newtonsoft.Json
+PagedList.Mvc
+ServiceStack.Text .NET Standard 2.0
+Dapper SqlBuilder component
+PreMailer.Net
+Sprache
+.NET client for Sentry (getsentry.com)
+Handlebars.Net.Helpers
+Mime-Detective
+PdfSharpCore
+SmartFormat.NET
+Minio
+Jaeger.Thrift.VendoredThrift
+AutoBogus
+akavache
+Jaeger.Thrift
+MQTTnet
+akavache.sqlite3
+Serilog.Sinks.Splunk
+AspNetCore.HealthChecks.AzureStorage
+Serilog.Formatting.Compact.Reader
+DistributedLock.Core
+akavache.core
+MSBuild.Microsoft.VisualStudio.Web.targets
+dotnet-serve
+NuGet.Repositories
+AspNetCore.HealthChecks.AzureServiceBus
+AWSSDK - Athena
+PuppeteerSharp
+Google.Cloud.Logging.Type
+Jaeger.Core
+Swashbuckle.AspNetCore.ReDoc
+NSwag.ApiDescription.Client
+AspNetCore.HealthChecks.UI.InMemory.Storage
+Amazon.Lambda.DynamoDBEvents
+Novell.Directory.Ldap.NETStandard
+IPAddressRange
+Microsoft Configuration Builders - Base
+Azure.Extensions.AspNetCore.DataProtection.Blobs
+MimeMapping
+CsQuery
+Jaeger.Senders.Thrift
+Jaeger.Communication.Thrift
+Optional: A robust option type
+Google.Apis.Drive.v3 Client Library
+runtime.win10-x86.Microsoft.NETCore.UniversalWindowsPlatform
+Google.Apis.Sheets.v4 Client Library
+AWSSDK - APIGateway
+runtime.win10-arm.Microsoft.NETCore.UniversalWindowsPlatform
+Paket
+runtime.win10-arm-aot.Microsoft.NETCore.UniversalWindowsPlatform
+runtime.win10-x64.Microsoft.NETCore.UniversalWindowsPlatform
+runtime.win10-x86-aot.Microsoft.NETCore.UniversalWindowsPlatform
+GeoJSON.Net
+runtime.win10-x64-aot.Microsoft.NETCore.UniversalWindowsPlatform
+Elastic Common Schema (ECS) Types
+AWSSDK - Route53
+RazorEngine.NetCore
+EcmaScript.Net
+Microsoft.Owin.Testing
+NBitcoin
+PInvoke.Windows.Core
+MVVM Helpers for Xamarin and Windows 🐒
+Fluid Template Engine
+Bugsnag .NET Notifier
+System.Interactive
+Microsoft.Azure.WebJobs.Extensions.Storage.Blobs
+SqlKata The C# Sql Query Builder
+TimeZoneNames
+Security Code Scan
+cef.redist.x64
+SQLitePCLRaw.provider.e_sqlite3.net45
+MahApps.Metro
+OpenIddict.Abstractions
+Macross.Json.Extensions
+Microsoft.Azure.Functions.Worker.Sdk
+Elastic APM Serilog Enricher
+Microsoft.Bot.Connector
+AspectCore.Extensions.Reflection
+Scriban.Signed
+PInvoke.Kernel32
+AspNetCore.HealthChecks.Publisher.ApplicationInsights
+NuGet.Protocol.Core.Types
+murmurhash
+CarouselView Control for Xamarin Forms
+Microsoft.Azure.WebJobs.Extensions.EventHubs
+SixLabors.ImageSharp.Web
+Microsoft Azure IoT Device Client SDK
+LaunchDarkly.CommonSdk
+NuGet.Protocol.Core.v3
+GeoAPI.Core
+IdentityServer3 - Access Token Validation
+NunitXml.TestLogger
+Serilog.Sinks.XUnit
+TextCopy
+Unity.AspNet.WebApi
+J2N
+DinkToPdf
+JUnitTestLogger
+Google.Apis.Admin.Directory.directory_v1 Client Library
+AdvancedStringBuilder
+cef.redist.x86
+AWSSDK - ElastiCache
+Baseline
+Microsoft.Azure.Functions.Worker.Sdk.Analyzers
+Microsoft.Bot.Builder
+Google.Apis.Gmail.v1 Client Library
+AWS SDK for C++ (Core Runtime)
+Unity for Prism for Xamarin.Forms
+Connectivity Plugin for Xamarin and Windows
+DeepCloner
+NLog.Web
+Elastic.Apm.MongoDb
+AWSSDK - CloudWatchEvents
+Google.Apis.Calendar.v3 Client Library
+Serilog Analyzer
+Microsoft OData Entity Data Model Builder
+ModernHttpClient
+LaunchDarkly.InternalSdk
+Microsoft.Reactive.Testing
+Elastic.Apm.Azure.Storage
+PInvoke.NCrypt
+Elastic.Apm.Azure.ServiceBus
+Microsoft.WSMan.Management
+DotNetty.Codecs.Mqtt
+Microsoft.WSMan.Runtime
+Elastic Common Schema (ECS) Serilog Formatter
+Microsoft.CodeAnalysis.BannedApiAnalyzers
+Facebook
+runtime.win10-x64.Microsoft.Net.UWPCoreRuntimeSdk
+Otp.NET
+runtime.win10-arm.Microsoft.Net.UWPCoreRuntimeSdk
+runtime.win10-x86.Microsoft.Net.UWPCoreRuntimeSdk
+MSBuildTasks
+Microsoft.Build.Traversal
+SerilogTimings
+MiNET
+Google.Apis.Compute.v1 Client Library
+AWSSDK - CertificateManager
+Elasticsearch.Net.Aws
+Microsoft.Net.UWPCoreRuntimeSdk
+Serilog.Sinks.Map
+PInvoke.BCrypt
+System.Reactive.Windows.Threading
+ByteSize
+ImageResizer
+Microsoft.OpenApi.Readers
+coverlet.console
+Ocelot
+Handlebars.Net.Helpers.Core
+NetEscapades.Configuration.Yaml
+StyleCop.MSBuild
+AutoFixture with NUnit3
+Microsoft.Management.Infrastructure.Runtime.Win
+Microsoft ASP.NET SessionState Module
+OpenIddict.Core
+Microsoft.Management.Infrastructure.Runtime.Unix
+Faker.Net
+PCL Crypto - Portable Crypto APIs
+ExifLib.PCL
+DeepEqual
+FsCheck
+Elmah.MVC
+Microsoft.Bot.Schema
+AWSSDK - ElasticLoadBalancingV2
+aliyun-net-sdk-core
+Microsoft.PowerShell.Commands.Utility
+Client Dependency Framework
+System.ServiceModel.Federation
+AspNetCore.HealthChecks.System
+Microsoft.NETFramework.ReferenceAssemblies.net45
+Microsoft.PowerShell.Security
+Microsoft.PowerShell.Commands.Diagnostics
+FAKE
+Microsoft.Azure.WebJobs.Extensions.EventGrid
+Grpc.HealthCheck
+New Relic .NET Agent
+structuremap.web
+Microsoft.PowerShell.ConsoleHost
+Serilog.Enrichers.Span
+Microsoft.PowerShell.Commands.Management
+Settings Plugin for .NET 6, .NET MAUI, Xamarin, and Windows
+ZXing.Net.Mobile Barcode Scanner
+Handlebars.Net.Helpers.Random
+Handlebars.Net.Helpers.Json
+Parser combinator for .NET
+Handlebars.Net.Helpers.DynamicLinq
+Handlebars.Net.Helpers.Xeger
+System.Web.Services.Description
+Handlebars.Net.Helpers.XPath
+Microsoft Azure Storage Data Movement Library
+DotNet.Glob
+XLabs - Forms
+SixLabors.Shapes
+Microsoft.PowerShell.SDK
+Stubble.Core
+MvvmCross
+NGraphics
+Microsoft.Build.CentralPackageVersions
+Grpc.Reflection
+Task Scheduler Managed Wrapper (the original Microsoft.Win32.TaskScheduler)
+Hashids.net
+NTS - Topology Suite
+Serilog.Exceptions.EntityFrameworkCore
+Microsoft.PowerShell.MarkdownRender
+DevExtreme.AspNet.Data
+DataStax C# Driver for Apache Cassandra
+Microsoft.Owin.SelfHost
+Azure.ResourceManager.Logic
+NSubstitute.Analyzers.CSharp
+HttpMultipartParser
+Magick.NET-Q8-AnyCPU
+AWS.Logger.AspNetCore
+StreamJsonRpc
+AspectCore.Abstractions
+runtime.win10-arm.Microsoft.Net.Native.SharedLibrary
+AWSSDK - ElasticLoadBalancing
+Dapper (Strong Named)
+Microsoft.IdentityModel.Protocols.WsTrust
+LamarCodeGeneration
+runtime.win10-x64.Microsoft.Net.Native.SharedLibrary
+Hangfire Autofac Integration
+AWSSDK - ElasticBeanstalk
+Xamarin iOS/Mac bindings to decode WebP file format
+Microsoft.CodeAnalysis.Compilers
+IdentityServer3
+Xamarin Test Cloud Agent
+runtime.win10-x86.Microsoft.Net.Native.SharedLibrary
+AWSSDK - ApplicationAutoScaling
+Confluent.SchemaRegistry.Serdes.Avro
+ANTLR 4
+BCrypt.Net-Core
+Npgsql.NetTopologySuite
+AWSSDK - EventBridge
+Portable Data Annotations
+Braintree
+HL7 FHIR support library
+runtime.win10-arm.Microsoft.Net.Native.Compiler
+runtime.win10-x64.Microsoft.Net.Native.Compiler
+EasyCaching.Core
+HL7 FhirPath evaluator
+XLabs - Core
+Npgsql.NodaTime
+XLabs - Serialization
+Microsoft.Azure.Functions.Worker.Extensions.Http
+CefSharp.Common
+runtime.win10-x86.Microsoft.Net.Native.Compiler
+DbUp PostgreSQL Support
+XLabs - Platform
+ApprovalTests
+ApprovalUtilities
+NuGet.Build
+McMaster.NETCore.Plugins
+XLabs - IoC
+RazorGenerator.MsBuild
+OpenIddict.Server
+AWSSDK - ElasticMapReduce
+GitVersion.CommandLine
+Dawn.Guard
+AspectCore.Core
+BaselineTypeDiscovery
+Google.Apis.Iam.v1 Client Library
+Microsoft.NETFramework.ReferenceAssemblies.net462
+Serilog.Sinks.Graylog
+Google Cloud Functions Framework
+Aardvark.Base
+InfluxDB.LineProtocol
+AngularJS UI Bootstrap
+Microsoft Orleans Client Libraries
+FluentScheduler
+AWSSDK - Redshift
+Dapper.FluentMap
+FluentEmail.Core
+Mindscape.Raygun4Net.AspNetCore
+Units.NET
+AWSSDK - Translate
+DotNetCore.CAP
+Cake.Json
+AWSSDK - Glue
+AWSSDK - CloudTrail
+Elastic.Apm.Azure.CosmosDb
+Costura.Fody
+Twilio.AspNet.Common
+SQLitePCLRaw.provider.e_sqlite3.android
+Handlebars.Net.Helpers.Humanizer
+Chutzpah - A JavaScript Test Runner
+OrmLite - Fast, code-first, config-free POCO ORM
+ServiceStack.Interfaces .NET Standard 2.0
+AWSSDK - Transfer
+Microsoft.CodeAnalysis.Scripting
+FlexLabs.EntityFrameworkCore.Upsert
+Microsoft.Owin.Security.WsFederation
+Fizzler
+AWSSDK - Elasticsearch
+OpenIddict.Validation
+AWSSDK - AppConfig
+AWS SDK for C++ (Core Runtime) Redist
+AutoFixture Idioms
+Microsoft.VisualStudio.Composition
+StructureMap.Microsoft.DependencyInjection
+Spectre.Console
+boost
+Prism.Wpf
+AWSSDK - Organizations
+Selenium.WebDriver.GeckoDriver (Win32, Win64, macOS, macOS arm64, and Linux64)
+WireMock.Org.Abstractions
+Microsoft.SqlServer.Assessment
+Paket.Core
+macOS Native libraries for System.Drawing.Common
+[Deprecated]EntityFramework.Extended
+Azure.Extensions.AspNetCore.DataProtection.Keys
+System.Json
+Examine.Core
+X.PagedList
+Microsoft.Azure.WebJobs.Extensions.OpenApi.Core
+Microsoft.Azure.WebJobs.Extensions.OpenApi.Configuration.AppSettings
+CronExpressionDescriptor
+Microsoft.SqlServer.Assessment.Authoring
+Google.Apis.CloudResourceManager.v1 Client Library
+Amazon.Lambda.S3Events
+Microsoft.NETFramework.ReferenceAssemblies.net48
+Smidge.Nuglify
+Grpc.Core.Testing
+DelegateDecompiler
+Smidge.InMemory
+Yandex.Geocoder
+dotnet-format
+Smidge
+HL7 FHIR library for the base ElementModel classes
+InfluxData.Net
+Svg
+AWSSDK - TranscribeService
+Smidge.Core
+Sustainsys.Saml2
+Examine.Lucene
+AWSSDK - ApiGatewayV2
+AWSSDK - ConfigService
+Okta.AspNet.Abstractions
+Amazon Cognito Authentication Extension Library
+DocuSign.eSign.dll
+Microsoft SQL Server Data-Tier Application Framework
+Grpc.AspNetCore.Server.Reflection
+PactNet
+Ardalis.SmartEnum
+AWSSDK - Route53Domains
+SharpZipLib.NETStandard
+GeoAPI.CoordinateSystems
+NAudio
+Castle.LoggingFacility.MsLogging
+CSRedisCore
+HL7 FHIR serialization functionality
+ExtentReports
+Windows UI Library
+Albedo
+AWSSDK - ElasticFileSystem
+AspNetCore.HealthChecks.OpenIdConnectServer
+Cake.Npm
+Geolocator Plugin for Xamarin and Windows
+AWSSDK - SageMaker
+Google.Apis.YouTube.v3 Client Library
+Google.Apis.Container.v1 Client Library
+Esprima
+AWSSDK - S3Control
+OpenIddict
+AWSSDK - WorkSpaces
+InfluxDB.Collector
+ValueInjecter
+AWSSDK - Kafka
+AWSSDK - StorageGateway
+FSharp.Data
+AWSSDK - DatabaseMigrationService
+Mongo2Go
+Serilog.Enrichers.AssemblyName
+AWSSDK - GuardDuty
+AsyncIO
+Aardvark.Base.FSharp
+Nerdbank.Streams
+AWSSDK - MQ
+AWSSDK - WAFV2
+AWSSDK - EKS
+AWSSDK - Inspector
+ServiceStack.Common .NET Standard 2.0
+AWSSDK - WAFRegional
+AWSSDK - MarketplaceEntitlementService
+Material Design Themes XAML Resources
+Blazored.LocalStorage
+Azure.ResourceManager.DataFactory
+Google.Apis.CloudKMS.v1 Client Library
+Thinktecture.IdentityModel.Core
+DynamicExpresso.Core
+SecurityCodeScan.VS2019
+AWSSDK - SecurityHub
+ZXing.Net.Mobile Barcode Scanner for Xamarin.Forms
+Microsoft.AspNetCore.HealthChecks
+AWSSDK - Personalize
+Google.Cloud.Bigtable.Common.V2
+Client Dependency Framework for MVC 5
+Mindscape.Raygun4Net.NetCore.Common
+AspectCore.Extensions.DependencyInjection
+DistributedLock
+Google.Apis.Compute.beta Client Library
+Microsoft.Web.LibraryManager.Build
+OrmLite.SqlServer - Fast, code-first, config-free POCO ORM
+OpenIddict.EntityFrameworkCore
+Lamar
+ISO 3166-1 Country list
+AspNet.Security.OpenIdConnect.Primitives
+AndHUD
+CommonMark.NET
+AWS Secrets Manager Caching for .NET
+AWSSDK - AccessAnalyzer
+SharpCifs.Std
+AWSSDK - Shield
+MSIE JavaScript Engine for .NET
+Mandrill
+Cake.Docker
+Tavis.UriTemplates
+(DEPRECATED)
+Microsoft.Bot.Streaming
+Stef.Validation
+Azure.ResourceManager.RecoveryServicesBackup
+Web Markup Minifier: Core
+CliWrap
+Microsoft Identity Web, Microsoft Graph helper
+Npgsql.EntityFrameworkCore.PostgreSQL.NetTopologySuite
+Microsoft.Playwright
+Google.Apis.SQLAdmin.v1beta4 Client Library
+Snowflake.Data
+angularjs.TypeScript.DefinitelyTyped
+Iconic.Zlib.Netstandard
+Serilog.Enrichers.ClientInfo
+protobuf-net.Grpc
+AWSSDK - Backup
+AutofacSerilogIntegration
+Cake.Incubator
+AspNetCore.HealthChecks.Kafka
+trx2junit
+Azure.Storage.Files.DataLake
+PowerShell
+Xunit.DependencyInjection
+Google.Cloud.Bigtable.Admin.V2
+AWSSDK - SSO
+Strathweb.CacheOutput.WebApi2
+Foundatio
+Hangfire.Redis.StackExchange
+JS Engine Switcher: V8
+OpenTK
+Google.Apis.Appengine.v1 Client Library
+ILMerge
+Verify
+Microsoft.Build.NoTargets
+Neo4jClient
+Mono.Reflection
+WebDriverManager.Net
+OpenIddict.EntityFrameworkCore.Models
+Okta.AspNetCore
+Google.Apis.CloudFunctions.v1 Client Library
+NetMQ
+ControlzEx
+ANTLR 4 Code Generator
+LumenWorks CSV Reader
+Azure.ResourceManager.PostgreSql
+GraphQL.Client.Serializer.SystemTextJson
+Duende.IdentityServer.Storage
+SQLitePCLRaw.provider.sqlite3.ios_unified
+OxyPlot.Core
+NETCore.MailKit
+Google.Cloud.Redis.V1
+Microsoft.CodeAnalysis.PublicApiAnalyzers
+Microsoft Configuration Builders - Environment
+AWSSDK - SSOOIDC
+Google.Cloud.Diagnostics.Common
+Google.Apis.CloudRedis.v1 Client Library
+Azure.ResourceManager.Batch
+Npgsql.EntityFrameworkCore.PostgreSQL.NodaTime
+SerilogWeb.Classic
+StackExchange.Redis.Extensions.AspNetCore is a library that has a set of extensions method fpr ASP.NET Core.
+NetEscapades.AspNetCore.SecurityHeaders
+Renci.SshNet.Async
+Bundle Transformer: Core
+HL7 FHIR library containing support classes for POCO support in the Firely .NET SDK
+OpenMcdf
+Google.Cloud.Trace.V1
+aliyun-net-sdk-ecs
+FFImageLoading SVG support
+nClam
+Microsoft.Azure.Functions.Worker.Extensions.Timer
+BTProgressHUD
+AuthorizeNet
+DryIoc
+runtime.win10-arm64.Microsoft.Net.Native.SharedLibrary
+StackifyLib
+Microsoft.Recognizers.Text
+Duende.IdentityServer
+runtime.win10-arm64.Microsoft.Net.Native.Compiler
+.NET for Android (formerly Xamarin.Android) Bindings for Google Play Services -  Xamarin.Firebase.Components
+aliyun-net-sdk-ram
+MSBuild Sdk Extras for .NET
+FluentAssertions.Analyzers
+Microsoft.Management.Infrastructure.CimCmdlets
+Google.Apis.Oauth2.v2 Client Library
+GeoAPI
+loggly-csharp
+ZKWeb.System.Drawing
+aliyun-net-sdk-vpc
+Select2.js
+Material Design Colors XAML Resources
+Microsoft.Diagnostics.EventFlow.Core
+Microsoft.Recognizers.Text.Number
+Microsoft.Bot.Configuration
+AWS Systems Manager ASP.NET Core Data Protection Provider
+MediaTypeMap.Core
+loggly-csharp-config
+T4MVCExtensions
+Microsoft.Orleans.CodeGenerator.MSBuild
+Amazon.Lambda.RuntimeSupport
+Azure.ResourceManager.Media
+AWSSDK - AppConfigData
+Com.Airbnb.iOS.Lottie
+EnyimMemcached
+Com.Airbnb.Android.Lottie
+Microsoft.Recognizers.Text.DateTime
+Microsoft.Recognizers.Text.NumberWithUnit
+Destructurama.JsonNet
+NLog.Targets.ElasticSearch
+Microsoft.AspNet.WebApi.Versioning.ApiExplorer
+T4MVC
+aliyun-net-sdk-slb
+OpenIddict.Validation.AspNetCore
+Mindscape.Raygun4Net
+Dazinator.Extensions.FileProviders
+Irony.NetCore
+Hangfire MongoDB Storage
+IKVM
+ObjectsComparer
+Cake.Git
+System.Configuration.Abstractions
+RestSharp.Serializers.Newtonsoft.Json
+Microsoft.Maui.Graphics
+MimeTypes.cs
+CSharpTest.Net.Collections-NetStd2
+MSBuild.StructuredLogger
+DeveloperForce.Force
+FastExpressionCompiler
+AMQP.Net Lite on .Net Core
+MarkdownSharp
+Uno SourceGenerator MSBuild Tasks
+PCL Storage - Portable Storage APIs
+SqlKata The C# Sql Query Builder
+Windows API Code Pack - Core
+MinVer
+Xamarin.Forms FFImageLoading SVG support
+Firely's SDK for working with HL7 FHIR R4 (4.0.1)
+AnyOf
+FluentResults
+Winton.Extensions.Configuration.Consul
+SumoLogic.Logging.Common
+New Relic Logging Extension for Serilog
+underscore.js
+Microsoft.Azure.WebJobs.Extensions.OpenApi
+OpenIddict.Validation.SystemNetHttp
+Hangfire Dashboard Authorization Filters
+React.Core
+SolrNet.Core
+DelegateDecompiler.EntityFramework
+Microsoft.DiaSymReader.PortablePdb
+JS Engine Switcher: MSIE
+Microsoft.Bot.Builder.Integration.AspNet.Core
+Apache ZooKeeper .NET async Client
+Audit.EntityFramework.Core
+Windows Community Toolkit - High Performance (.NET Standard)
+Microsoft.SourceLink.Vsts.Git
+.NET for Android (formerly Xamarin.Android) Bindings for Google Play Services -  Xamarin.Firebase.Installations
+FsPickler
+CoreCLR-NCalc
+Globalize
+AspNetCore.HealthChecks.Network
+.NET for Android (formerly Xamarin.Android) Bindings for Google Play Services -  Xamarin.Firebase.Installations.InterOp
+EnyimMemcachedCore
+Tesserae
+Mosaik.FrontEnd.Core
+AspNetCore.HealthChecks.MySql
+AWSSDK - NetworkFirewall
+OpenIddict.Validation.ServerIntegration
+DotNetEnv
+System.CommandLine.Rendering
+AsyncFriendlyStackTrace
+RockLib.Configuration.ObjectFactory
+PasswordGenerator
+KubernetesClient.Models
+PgpCore
+Hardcodet.NotifyIcon.Wpf
+ZString
+KubernetesClient.Basic
+DevILSharp
+AspNetCore.HealthChecks.Elasticsearch
+Serilog.Sinks.AzureAnalytics
+Cake.Http
+Log4Net.Async
+FastAndroidCamera
+Amazon.Lambda.CloudWatchEvents
+XmpCore
+FluentEmail.Smtp
+Google.Cloud.Firestore
+GeoTimeZone
+SerilogTraceListener
+OpenIddict.Server.AspNetCore
+Windows API Code Pack - Shell
+Microsoft.Azure.Core.NewtonsoftJson
+Google.Cloud.Firestore.V1
+Serilog.Sinks.AzureBlobStorage
+Arbitrary-Precision Number Library
+SourceLink.Create.CommandLine
+Unity.Microsoft.DependencyInjection
+GoogleApi
+RockLib.Configuration
+C++/WinRT Build Support
+XLParser
+Application Insights Service Fabric Collector
+AspNet.Security.OpenIdConnect.Extensions
+Microsoft Orleans Azure Table Storage Clustering Provider
+AspNet.Security.OpenIdConnect.Server
+Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers
+C# port of NaCl crypto library
+MailChimp.Net.V3
+docfx.console
+Microsoft.VisualStudio.SDK.Analyzers
+Simple.OData.Client
+Yarp.ReverseProxy
+FAKE.Core
+SpecFlow.Assist.Dynamic
+runtime.win10-arm64-aot.Microsoft.NETCore.UniversalWindowsPlatform
+SixLabors.Shapes.Text
+Microsoft Orleans Server Libraries
+ZendeskApi_v2
+netbox
+Serilog.Sinks.TestCorrelator
+AWS.Logger.NLog
+TinyCsvParser
+Microsoft.VisualStudio.Composition.NetFxAttributes
+nbgv
+Bootstrap Datepicker
+Twilio.AspNet.Core
+Lamar.Microsoft.DependencyInjection
+Google Authenticator Two-Factor Authentication Library
+Octopus CLI
+Octokit.GraphQL
+iTextSharp (LGPL / MPL)
+Umbraco ModelsBuilder
+Entity Framework Dynamic/Global Filters
+BarcodeLib
+Mandrill.net
+Grpc.AspNetCore.Web
+DapperExtensions
+PowerArgs
+Dapper.SimpleCRUD
+DryIoc.Microsoft.DependencyInjection
+GraphQL.Common
+Microsoft ASP.NET Web API Compression Support
+LibLog
+MetadataExtractor
+Google Events serialization support
+contentful.csharp
+.NET for Android (formerly Xamarin.Android) Bindings for Google Play Services -  Xamarin.Firebase.Annotations
+Telegram Bot API Client
+Microsoft.NETFramework.ReferenceAssemblies.net46
+Rainbow.Core
+lambda2js (ExpressionTree to JavaScript)
+ILogger for xUnit
+xunit Logging Extensions
+SqlSugarCore
+MySql.EntityFrameworkCore
+SemanticVersioning
+Bootstrap 3 Datetimepicker CSS
+Thinktecture.IdentityModel
+FsCheck.Xunit
+SoapCore
+Lykke.Common
+Aardvark.Base.Telemetry
+ManagedEsent
+Microsoft.Recognizers.Text.Choice
+Serilog.Enrichers.Demystify
+Microsoft.Recognizers.Text.DataTypes.TimexExpression
+Xamarin.CommunityToolkit
+Prism.Unity
+SolrNet
+Microsoft SQL Server ScriptDOM
+Azure.ResourceManager
+Rainbow.Storage.Yaml
+PushSharp
+Octopus.Client
+Durable Task Sidecar Protobuf Artifacts
+MediatR-Autofac-Extension
+GeoCoordinate.NetCore
+Grid Solutions Framework Core Functions Library
+CBOR (Concise Binary Object Representation)
+System.Interactive.Async.Providers
+GitVersionTask
+TestableIO.System.IO.Abstractions
+Akka.Remote
+Microsoft.Azure.SqlDatabase.ElasticScale.Client
+TestableIO.System.IO.Abstractions.Wrappers
+PostgreSQLCopyHelper
+Google.Cloud.Diagnostics.AspNetCore
+AltV.Net
+Serilog.Sinks.AzureTableStorage
+AWSSDK - Account
+System.CommandLine.DragonFruit
+Rainbow.Storage.Sc
+RockLib.Threading
+OrleansDashboard
+AutoFixture.SeedExtensions
+AngleSharp.Diffing
+ASP.NET Web API Rate Limiter
+AltCover (General purpose install)
+DotNetCore.CAP.RabbitMQ
+JS Engine Switcher: ChakraCore
+Microsoft.Azure.DataLake.Store
+AMQP.Net Lite
+Moq.EntityFrameworkCore
+Sustainsys.Saml2.AspNetCore2
+Mono.Reflection.Core
+Fastenshtein
+RockLib.Immutable
+Figgle
+Microsoft.Azure.WebJobs.Extensions.SignalRService
+Support for store functions for Entity Framework 6.3.0+ Code First.
+Serialize.Linq
+SVG Support for SkiaSharp
+MQTTnet.Extensions.ManagedClient
+AWSSDK - Macie2
+linqtotwitter
+Grpc.Net.Client.Web
+AltV.Net.Async
+NLipsum
+Tweetinvi
+Microsoft.Exchange.WebServices.NETStandard
+Microsoft.Bot.Builder.Dialogs
+EasyCaching.InMemory
+node.TypeScript.DefinitelyTyped
+Google.Apis.Analytics.v3 Client Library
+Duende.IdentityServer.EntityFramework.Storage
+EasyNetQ.Management.Client
+ExpectedObjects
+libphonenumber-dotnet
+Seq.Extensions.Logging
+IronSnappy
+Postmark
+Moq.Dapper
+Unity.Mvc5
+Windows Azure Storage
+Ardalis.Specification
+NTS - Topology Suite
+Microsoft.Net.Native.SharedLibrary-x64
+Unicorn.Core
+SlackAPI
+Microsoft.Net.Native.SharedLibrary-arm
+AutoFixture with Auto Mocking using FakeItEasy
+Swashbuckle.Examples
+CefSharp.Wpf
+JustEat.StatsD
+DevDefined.OAuth
+Microsoft.Net.Native.SharedLibrary-x86
+moment.TypeScript.DefinitelyTyped
+Com.Airbnb.Xamarin.Forms.Lottie
+ConfigureAwaitChecker.Analyzer
+DotNetSeleniumExtras.PageObjects.Core
+Machine.Specifications
+Google Cloud Functions Framework Invoker
+AltV.Net.CApi
+Selenium.InternetExplorer.WebDriver
+AltV.Net.Shared
+Sitko.Core.App
+AgileObjects.ReadableExpressions
+Duende.IdentityServer.EntityFramework
+Microsoft.ServiceHub.Framework
+WCF Data Services Server
+Storage.Net
+Unicorn
+OpenIddict.Server.DataProtection
+OpenIddict.Validation.DataProtection
+Pulumi.Protobuf
+Microsoft.NETFramework.ReferenceAssemblies.net47
+ModernHttpClient
+PactNet.Windows
+Windows Community Toolkit - Common (.NET Standard)
+Microsoft.VisualStudio.ComponentModelHost
+ReflectionMagic
+RT.Comb
+Kentor.OwinCookieSaver
+NetStandardPolyfills
+Knockout.Validation
+Polly-Signed
+Kamsar.WebConsole
+OpenIddict.AspNetCore
+Duende.IdentityServer.AspNetIdentity
+.NET for Android (formerly Xamarin.Android) Bindings for Google Play Services -  Xamarin.Firebase.Datatransport
+knockout.TypeScript.DefinitelyTyped
+Serilog.Enrichers.Memory
+Google.Apis.Translate.v2 Client Library
+PdfPig
+CefSharp.WinForms
+Gelf.Extensions.Logging
+Mosaik.FrontEnd.API
+MicroCHAP
+DasMulli.Win32.ServiceUtils
+FSharp.Control.Reactive
+Xunit.Extensions.Ordering
+Microsoft.NETFramework.ReferenceAssemblies.net40
+Rainbow
+Mailjet.Api
+xUnit.net [Extensions]
+NServiceBus.Serilog
+Cake.Powershell
+HtmlAgilityPack for .NET Core
+Apache.NMS.ActiveMQ.NetStd
+Microsoft.ServiceHub.Analyzers
+Google.Apis.AndroidPublisher.v3 Client Library
+Serilog.Sinks.Slack
+AspNetCore.HealthChecks.AzureKeyVault
+StatsN.Contracts
+Device Information Plugin for Xamarin and Windows
+Microsoft.CodeAnalysis.CSharp.CodeStyle
+EntityFrameworkCore.Triggers
+Web Markup Minifier: ASP.NET Common
+Microsoft.PowerBI.JavaScript
+SQLitePCLRaw.lib.e_sqlite3.v140
+Thinktecture.IdentityModel Client Library
+AsyncUsageAnalyzers
+Microsoft Windows App SDK
+AspectCore.Extensions.Autofac
+Toolkit for Xamarin.Forms
+StatsN
+Google Cloud Functions Framework Hosting
+Strong Namer - Automatically Add Strong Names to References
+SQLitePCLRaw.provider.e_sqlite3.uwp10
+Microsoft.Azure.Functions.Worker.Sdk.Generators
+CS-Script.Core
+Realm
+Contentment for Umbraco
+Microsoft.AspNetCore.OData.Versioning
+MvvmCross.Plugin.Messenger
+PusherServer
+OrleansDashboard.Core
+Fluent Infrastructure
+AspNet.Security.OAuth.Validation
+.NET for Android (formerly Xamarin.Android) Bindings for Google Play Services -  Xamarin.Firebase.Encoders.JSON
+Microsoft Identity Abstractions
+Lo-Dash
+LDAP integration for NetStandard 2.0 Projects
+Google.Cloud.SecretManager.V1
+React.Web
+Json.More.Net
+BrotliSharpLib
+ConsoleTables
+Aardvark.Base.TypeProviders
+Snapshooter
+Lindhart.Analyser.MissingAwaitWarning
+AWSSDK - AppSync
+AWS.Logger.SeriLog
+Enterprise Library - Common Infrastructure
+Elmah.Contrib.WebApi
+SimpleImpersonation
+Kralizek.Extensions.Configuration.AWSSecretsManager
+Verify.Xunit
+CryptoHelper
+MethodBoundaryAspect.Fody
+FeatureToggle
+FluentDateTime
+Microsoft.NETFramework.ReferenceAssemblies.net471
+OpenXml Power Tools
+Rollbar.NET Notifier
+FSharp.Compiler.Service
+PluralizeService.Core
+Ude.NetStandard
+Npgsql.OpenTelemetry
+Senparc.CO2NET.dll
+BenchmarkDotNet.Diagnostics.Windows
+Selenium.Axe
+Microsoft.Identity.Web.Diagnostics
+AWSSDK - FSx
+FreeSql
+Microsoft Identity Web Token Acquisition
+AspNetCore.HealthChecks.CosmosDb
+DocX
+AspectCore.Extensions.AspectScope
+Uno.Core
+Microsoft BinSkim Binary Analysis Security Tool
+Aardvark.Base.Essentials
+Umbraco.Code
+Serilog.Sinks.Grafana.Loki
+protobuf-net.Grpc.AspNetCore
+AWSSDK - Batch
+Swashbuckle.AspNetCore.Examples
+PactNet.Linux.x64
+LibSassBuilder
+zipkin4net
+FluentMigrator.Tools
+Wiry.Base32.Patched
+LamarCompiler
+.NET Core HTML to Image Converter
+MvcSiteMapProvider Web
+Perplex.ContentBlocks.Core
+RawRabbit
+PeanutButter.Utils
+Serilog.Sinks.Udp
+jqueryui.TypeScript.DefinitelyTyped
+Aardvark.Base.Incremental
+Senparc.Weixin.dll
+MSBuild Extension Pack
+Cake.Sonar
+MimeTypeMapOfficial
+Microsoft.Azure.Functions.Worker.Extensions.Storage
+Catel.Core
+Highly Optimized Priority Queue
+.NET for Android (formerly Xamarin.Android) Bindings for Google Play Services -  CloudMessaging
+PayPalCheckoutSdk
+Microsoft.Azure.CognitiveServices.Vision.ComputerVision
+RockLib.Diagnostics
+JsonPointer.Net
+OxyPlot.Wpf
+Microsoft Orleans ADO.NET Clustering Provider
+React.Web.Mvc4
+Google.Apis.IAMCredentials.v1 Client Library
+Rotativa
+Microsoft.Azure.Functions.Worker.Extensions.ServiceBus
+Microsoft.iOS.Sdk
+scientist
+Akka.Cluster
+Bootstrap 3 Datetimepicker
+Octodiff
+CryptoExchange.Net
+Json.Net
+LinqToExcel
+BenchmarkDotNet.Core
+Microsoft.Azure.ConfigurationManager
+Microsoft(R) Azure Cosmos
+Unchase.Swashbuckle.AspNetCore.Extensions
+Image Circle Control Plugin for Xamarin.Forms
+NJsonSchema.Extensions
+ElmahCore
+ElmahCore.Common
+Windows API Code Pack - Shell Extensions
+Option
+TaskBuilder.fs
+Discord.Net.Core
+ASP.NET Core MVC Input/Output MessagePack formatter
+Application Insights Service Fabric Collector for Native Service Fabric Applications
+Azure.ResourceManager.Authorization
+Metrics.NET
+Autofac.Extras.Quartz
+Unity.Configuration
+Google.Apis.Urlshortener.v1 Client Library
+Wcwidth
+Microsoft.NET.Workload.Emscripten.Manifest-6.0.300.Msi.x64
+LightInject.WebApi
+SafeObjectPool
+cldrjs
+Media Type Map
+FluentHttpClient
+IdGen
+Akka.Persistence
+Discord.Net.Rest
+Should
+Sitecore.FakeDb
+.NET for Android (formerly Xamarin.Android) Bindings for Google Play Services -  Xamarin.Firebase.Encoders
+Sodium.Core
+MvcSiteMapProvider MVC5 Core
+Google.Apis.Customsearch.v1 Client Library
+Uno.Core.Build
+LigerShark.WebOptimizer.Core
+Mapster.DependencyInjection
+Snapshooter.Xunit
+MsgReader
+Google.Apis.AnalyticsReporting.v4 Client Library
+Nustache
+Ardalis.Specification.EntityFrameworkCore
+DistributedLock.FileSystem
+OpenCvSharp core library. A package of separate native bindings for your OS is required.
+DerConverter
+JsonFlatten
+Aspect Injector - AOP Framework
+Moq.Contrib.HttpClient
+Uno.Diagnostics.Eventing
+Microsoft.Azure.CognitiveServices.Language.LUIS.Runtime
+AdaptiveExpressions
+TencentCloudSDK
+The official Linq provider for Couchbase N1QL
+Dynamic CSS for .net
+Amazon.Lambda.TestTool-3.1
+GitHubActionsTestLogger
+Pluralize.NET
+Microsoft.AspNetCore.OData.Versioning.ApiExplorer
+ELMAH on MS SQL Server (requires manual config)
+Windows API Code Pack - Sensors
+Angular UI-Router
+Google.Apis.PeopleService.v1 Client Library
+ServiceStack.Redis .NET Standard 2.0
+murmurhash-signed
+Tesseract
+Google.Cloud.Spanner.Admin.Instance.V1
+Google.Cloud.Spanner.V1
+Google.Cloud.Spanner.Admin.Database.V1
+Util.Core
+Google.Cloud.Spanner.Data
+Windows API Code Pack - Extended Linguistic Services
+Emby.Common
+AutoMapper.EF6
+NetCore.AutoRegisterDi
+DistributedLock.Redis
+Tempus
+Ductus.FluentDocker
+ProjNET4GeoAPI
+Ben.BlockingDetector
+Fluent Command Line Parser
+Slapper.AutoMapper
+Grid Solutions Framework Security Library
+dotenv.net
+Temporary Appium WebDriver for Microsoft Windows Application Driver Preview
+FShade.Imperative
+ImageResizer.WebConfig
+AutoMapper-Autofac-Extension
+Vault
+FShade.Core
+FFmpeg.AutoGen
+EntityFrameworkTesting
+Serilog Rolling File Alternative
+Selenium.WebDriver.EdgeChromiumDriver(Win32, Win64, Mac, Linux64)
+ServiceStack Server integration with Redis and OrmLite
+AspNetCore.HealthChecks.Hangfire
+Marvin.JsonPatch
+xunit.categories
+OpenCoverToCoberturaConverter
+Microsoft Orleans Hosting for Kubernetes
+ProductionStackTrace
+OpenCvSharp4 native bindings for Windows x64/x86 (except UWP)
+Sieve
+Cake.Yarn
+NoGit
+AWSSDK - CloudSearchDomain
+Razor.Templating.Core
+Google.Cloud.Spanner.Common.V1
+MvcSiteMapProvider MVC5
+Hangfire.Dashboard.BasicAuthorization
+shortid
+Hyperion
+This package modifies the DevExpress references in all Xpand.XAF.* assemblies to match the target project DevExpress version
+FluentEmail.Razor
+Azure.Storage.Blobs.Batch
+Meziantou.Analyzer
+Serilog.Enrichers.AspNetCore
+Microsoft Concurrency Visualizer SDK Tools
+Unleash.Client
+AWSSDK - Pinpoint
+Microsoft.iOS.Ref
+Text to Speech Plugin for Xamarin and Windows
+FSharp.Control.AsyncSeq
+Anemonis.AspNetCore.RequestDecompression
+Aws4RequestSigner
+ClearScript Core Library
+StringSimilarity.NET
+Levenshtein Minimum Edit Distance
+Microsoft Azure Common Library
+Protractor
+LightInject.Web
+MiniExcel
+Unicorn.Roles.Core
+Mindscape.Raygun4Net.Core
+ILRepack - Open-source alternative to ILMerge
+AwsSignatureVersion4
+Selenium.WebDriver.GeckoDriver.Win64
+GitVersionMsBuild
+Microsoft Configuration Builders - UserSecrets
+Selenium Remote Control (RC)
+StructureMap.MVC5
+EnterpriseLibrary.TransientFaultHandling.Core
+Microsoft.Maui.Sdk
+Discord.Net.Webhook
+Confluent.SchemaRegistry.Serdes
+INI Parser
+Xamarin.Essentials.Interfaces
+ClearScript V8 Library
+NLog.Targets.Syslog
+Confluent.SchemaRegistry.Serdes.Protobuf
+Microsoft Azure Common Library Dependencies
+AWSSDK - ApiGatewayManagementApi
+plist-cil
+Audit.NET.MongoDB
+Ulid
+Mosaik.FrontEnd
+Azure Mobile Client SDK
+Telerik JustMock  Lite
+MvvmCross - Platform
+Intercom Dotnet Client
+Flurl.Signed
+System.CommandLine.NamingConventionBinder
+Microsoft.Maui.Graphics.Skia
+Unidecode.NET
+X.PagedList.Mvc.Core
+Enterprise Library - Transient Fault Handling Application Block for for .Net Core & .Net Standard
+Akka.TestKit
+ServiceStack.Client .NET Standard 2.0
+GeoCoordinate.NetStandard1
+West Wind Utilities
+Cake.Coverlet
+Dynamic expressions evaluator
+Discord.Net.WebSocket
+Lykke.SettingsReader
+Microsoft.Edge.SeleniumTools
+Microsoft.ML.OnnxRuntime
+Inputmask
+Azure.ResourceManager.DataLakeStore
+Bundle Transformer: LESS
+AspNetCore.Proxy
+Serilog.Sinks.PostgreSQL
+ServiceFabric.Mocks
+IbanNet
+Google.Cloud.Translation.V2
+NPoco.SqlServer
+ProxyKit
+Microsoft.Azure.Batch
+OtpSharp for .NET Core / NetStandard
+Microsoft.MacCatalyst.Sdk
+Senparc.NeuChar.dll
+Fingerprint / Face ID / Biometric Plugin for Xamarin
+ILSpy Decompiler Engine
+Simple.OData.V4.Client
+QuikGraph
+Microsoft Azure Cosmos DB Bulk Executor library
+Hangfire.MySqlStorage
+Microsoft Orleans Telemetry Consumer - Linux
+Microsoft.PowerPlatform.Dataverse.Client
+bootstrap.TypeScript.DefinitelyTyped
+Unicorn.Roles
+System.Linq.Async.Queryable
+Pomelo.EntityFrameworkCore.MySql.Design
+Buildalyzer
+Magick.NET-Q16-x64
+Audit.NET.PostgreSql
+Mime
+AspNetCore.HealthChecks.Oracle
+Gelf4Net
+Microsoft.EntityFrameworkCore.AutoHistory
+SerilogMetrics
+CachingFramework.Redis
+gong-wpf-dragdrop
+PancakeView for Xamarin.Forms
+Swagger-Net | Swagger for WebApi
+Xunit.StaFact
+Agoda.Frameworks.LoadBalancing
+StringTemplate 4
+Microsoft.WindowsAPICodePack
+DotNetCore.CAP.Dashboard
+Google.Apis.Drive.v2 Client Library
+Argu
+Serilog.Sinks.SyslogMessages
+CommonServiceLocator for .Net Core & .Net Standard
+Discord.Net.Commands
+ASP.NET Core Identity Provider for Amazon Cognito
+DryIoc for Prism for Xamarin.Forms
+FuzzySharp
+Microsoft.Bot.Builder.AI.Luis
+LightInject.Mvc
+DistributedLock.SqlServer
+SqlSugarCore.Kdbndp
+Roslynator.Formatting.Analyzers
+Aardvark.Base.Rendering
+PowerShellStandard.Library
+RockLib.Logging
+Cross platform simple and complex progressbars on the command line!
+Microsoft.NETFramework.ReferenceAssemblies.net452
+Okta.Sdk.Abstractions
+CQRS.NET
+Microsoft.SourceLink.GitLab
+Fasterflect.Xpand
+Discord.Net
+Allure.Commons
+Serilog.Exceptions.SqlServer
+Konscious.Security.Cryptography.Blake2
+Microsoft Orleans Azure Storage Persistence Provider
+Stl
+AWSSDK - SimpleEmailV2
+Global Exception Handling Middleware
+Geolocation
+WorkflowCore
+Coravel
+PinYinConverterCore
+FlexibleConfiguration
+MvvmCross.Plugin.Visibility
+Tomlyn
+ncalc
+Helix Too
